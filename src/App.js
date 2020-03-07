@@ -12,6 +12,7 @@ const Header = styled.header`
     display:flex;
     align-items:center;
     padding: 0 50px;
+    box-shadow: 1px 2px 10px rgba(0,0,0,.15);
     .logo {
         margin-right: 150px;
         img {
