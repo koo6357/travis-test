@@ -45,10 +45,10 @@ function App() {
           </div>
 
           <Nav>
-              <a href="#!">Home</a>
-              <a href="#!">Task</a>
-              <a href="#!">Service</a>
-              <a href="#!">Connect</a>
+              <div>Home</div>
+              <div>Task</div>
+              <div>Service</div>
+              <div>Connect</div>
           </Nav>
       </Header>
 
