@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/travis-test/static/js/main.0f0cc3d7.chunk.js",
+    "main.js.map": "/travis-test/static/js/main.0f0cc3d7.chunk.js.map",
+    "runtime-main.js": "/travis-test/static/js/runtime-main.656b32a8.js",
+    "runtime-main.js.map": "/travis-test/static/js/runtime-main.656b32a8.js.map",
+    "static/js/2.8219a6d0.chunk.js": "/travis-test/static/js/2.8219a6d0.chunk.js",
+    "static/js/2.8219a6d0.chunk.js.map": "/travis-test/static/js/2.8219a6d0.chunk.js.map",
+    "index.html": "/travis-test/index.html",
+    "precache-manifest.01ac94007334c6c3a4f52ed1761e891d.js": "/travis-test/precache-manifest.01ac94007334c6c3a4f52ed1761e891d.js",
+    "service-worker.js": "/travis-test/service-worker.js",
+    "static/js/2.8219a6d0.chunk.js.LICENSE.txt": "/travis-test/static/js/2.8219a6d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/travis-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.656b32a8.js",
+    "static/js/2.8219a6d0.chunk.js",
+    "static/js/main.0f0cc3d7.chunk.js"
+  ]
+}
