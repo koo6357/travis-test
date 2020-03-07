@@ -1,0 +1,30 @@
+language: node_js
+node_js:
+  - 11.10.1
+cache: npm
+
+install:
+  - npm ci
+
+script:
+  - npm test
+  - npm run build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: master
+
+
+#travis life cycle
+#before_install:
+#install:
+#before_script:
+#script:
+#after_success:
+#after_failure:
+#after_script:
+#deploy:
+#after_deploy:
